@@ -1,0 +1,24 @@
+﻿<Window x:Class="TiliToli.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TiliToli"
+        mc:Ignorable="d"
+        Title="TiliToli" Height="500" Width="500" ResizeMode="CanMinimize" Background="#FF9B9B9B">
+	<Grid>
+		<Button x:Name="button1" Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="70,70,0,0" Height="100" FontSize="48" Background="Red" BorderBrush="Black" Click="Button1_Click"/>
+		<Button x:Name="button2" Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="200,70,0,0" Height="100" FontSize="48" Background="Blue" BorderBrush="Black" Click="Button1_Click"/>
+		<Button x:Name="button3" Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="330,70,0,0" Height="100" FontSize="48" Background="#FF00FF23" BorderBrush="Black" Click="Button1_Click"/>
+		<Button x:Name="button4" Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="70,200,0,0" Height="100" FontSize="48" Background="#FFF3FF00" BorderBrush="Black" Click="Button1_Click"/>
+		<Button x:Name="button5" Content="5" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="200,200,0,0" Height="100" FontSize="48" Background="#FFDC00FF" BorderBrush="Black" Click="Button1_Click"/>
+		<Button x:Name="button6" Content="6" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="330,200,0,0" Height="100" FontSize="48" Background="#FF00F3FF" BorderBrush="Black" Click="Button1_Click"/>
+		<Button x:Name="button7" Content="7" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="70,330,0,0" Height="100" FontSize="48" Background="#FF7D7E7E" BorderBrush="Black" Click="Button1_Click"/>
+		<Button x:Name="button8" Content="8" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="200,330,0,0" Height="100" FontSize="48" Background="#FFF59C01" BorderBrush="Black" Click="Button1_Click"/>
+		<Button x:Name="button0" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="330,330,0,0" Height="100" FontSize="48" Background="White" BorderBrush="Black" Visibility="Hidden"/>
+		<Button x:Name="newGame" Content="New Game" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="474" Height="40" FontSize="24" Background="Black" Foreground="White" Click="NewGame_Click" BorderBrush="White"/>
+		<Label Content="Steps:" HorizontalAlignment="Left" Margin="70,435,0,0" VerticalAlignment="Top" Width="40"/>
+		<TextBox x:Name="stepsCounter" HorizontalAlignment="Left" Height="23" Margin="110,438,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" TextAlignment="Center" IsReadOnly="True" Foreground="White" Background="Black" Text="0" SelectionBrush="Black" BorderBrush="White"/>
+
+	</Grid>
+</Window>

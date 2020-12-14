@@ -1,0 +1,15 @@
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\MainWindow.g.cs
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\App.g.cs
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\MainWindow.baml
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\TiliToli.g.resources
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.CoreCompileInputs.cache
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+E:\!School\Komplex Programozás\TiliToli Done\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
